@@ -1,0 +1,6 @@
+/*
+Theme Name: TailPress
+*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
